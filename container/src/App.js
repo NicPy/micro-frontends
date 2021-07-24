@@ -7,7 +7,8 @@ export default function App() {
             <MarketingApp/>
             Container Test github tasks
             added ACTIONS_ALLOW_UNSECURE_COMMANDS
-            
+            uses: actions/checkout@v2.3.4 added
+
         </div>
     )
 }
