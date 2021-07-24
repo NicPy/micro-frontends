@@ -13,6 +13,8 @@ export default function App() {
             added: change steps to AMAZON steps (it works)
             setup publicPath 
 
+            added auto invalidation
+
         </div>
     )
 }
