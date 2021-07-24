@@ -6,7 +6,8 @@ export default function App() {
         <div>
             <MarketingApp/>
             Container Test github tasks
-            helpers setup
+            added ACTIONS_ALLOW_UNSECURE_COMMANDS
+            
         </div>
     )
 }
