@@ -6,6 +6,7 @@ export default function App() {
         <div>
             <MarketingApp/>
             Container Test github tasks
+            helpers setup
         </div>
     )
 }
