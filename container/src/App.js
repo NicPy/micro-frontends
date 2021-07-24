@@ -15,6 +15,8 @@ export default function App() {
 
             added auto invalidation//
 
+            added marketing yml
+
         </div>
     )
 }
