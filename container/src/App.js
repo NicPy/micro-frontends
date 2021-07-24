@@ -10,7 +10,8 @@ export default function App() {
 
             uses: actions/checkout@v2.3.4 added
 
-            added: change steps to AMAZON steps
+            added: change steps to AMAZON steps (it works)
+            setup publicPath 
 
         </div>
     )
